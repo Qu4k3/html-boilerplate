@@ -38,6 +38,6 @@ Web template structure to start coding right away
 sass --watch scss/main.scss:css/styles.css 
 ```
 
-### Author
+## Author
 
 - [Qu4k3](https://github.com/Qu4k3)
