@@ -1,6 +1,6 @@
 # Base web template
 
-## Description
+### Description
 
 ### Structure
 
@@ -11,14 +11,14 @@
 │   │   ├── fontawesome-all.min.css
 │   │   └── styles.css
 │   ├── fonts
-|   ├── img
-|   ├── js
+│   ├── img
+│   ├── js
 │   │   ├── bootstrap.min.js
 │   │   ├── index.js
 │   │   └── jquery-3.3.1.min.js
-|   ├── scss
+│   ├── scss
 │   │   └── main.scss
-|   └── webfonts
+│   └── webfonts
 │       └── ...
 ├── index.html
 └── README.md
