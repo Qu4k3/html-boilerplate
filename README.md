@@ -1,8 +1,16 @@
 # Base web template
 
-### Description
+## Description
 
-### Structure
+Web template structure to start coding right away
+
+### It includes
+
+- [JQuery 3.3.1](https://jquery.com/download/)
+- [Font Awesome 5.0.8 Pro](https://fontawesome.com)
+- [Bootstrap 4.0](https://getbootstrap.com)
+
+## Structure
 
 ```bash
 ├── assets
@@ -23,7 +31,7 @@
 ├── index.html
 └── README.md
 ```
-
+## Helpers
 ### Sass auto compiler
 
 ```
