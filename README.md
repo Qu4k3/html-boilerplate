@@ -1,4 +1,4 @@
-# Base web template
+# Web template
 
 ## Description
 
@@ -40,4 +40,4 @@ sass --watch scss/main.scss:css/styles.css
 
 ## Author
 
-- [Qu4k3](https://github.com/Qu4k3)
+[Qu4k3](https://github.com/Qu4k3)
